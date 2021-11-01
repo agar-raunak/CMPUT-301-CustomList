@@ -49,7 +49,7 @@ public class CustomListTest {
         City c = new City("Calgary", "Alberta");
         list.addCity(c);
         assertEquals(size+1, list.getCount());
-        
+
     }
 
 }
